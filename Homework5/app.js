@@ -9,7 +9,6 @@ const app = Vue.createApp({
   methods: {
     addTask() {
       this.tasks.push(this.currentTask);
-      console.log(this.tasks);
     },
     toggleList() {
       this.showList = !this.showList;
