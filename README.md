@@ -23,7 +23,3 @@ Lists and Conditional Content in Vue.JS
 ### Homework 6
 
 Components, component-parent / parent-component communication
-
-#### VueTemplate
-
-Template for basic Vue App
